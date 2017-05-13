@@ -1,9 +1,9 @@
 # Highcharts POC
 
-##Column chart
+## Column chart
 
-##Stock chart
+## Stock chart
 
-##Treemap chart
+## Treemap chart
 
-##Map chart
+## Map chart
